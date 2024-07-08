@@ -30,4 +30,20 @@ result = sort(total_score)
 print(f"คะแนนรวม: {total_score}")
 print(f"ผลการประเมิน: {result}")
 
-            
+            #def get (sco):
+    
+   # sco = float(input("รับคะเเนนเก็บ"))
+    
+    #return get   
+
+#def jet (g):
+    
+    #g = float(input("รับคะเเนนจิตพิสัย"))
+    
+    #return jet
+
+#def mid (h):
+   
+    #h = float(input("รับคะเเนนกลางภาค"))
+    
+    #return mid
